@@ -4,11 +4,11 @@ Hi 👋 My name is OSCAR!
 Full Stack Web Developer
 ------------------------
 
-I am a Junior Web Developer, passionate about programming, I love challenges and learning new things.
+I am a FullStack Web Developer, passionate about programming, I love challenges and learning new things.
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [ozcardev@gmail.com](mailto:ozcardev@gmail.com)
-*   🧠  I'm learning Typescript
+*   🧠  I'm learning backend with Java & Quality Control + Automation.
 
 ### Skills
 <p align="left">
