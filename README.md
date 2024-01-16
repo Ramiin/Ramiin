@@ -8,7 +8,7 @@ I am a FullStack Web Developer, passionate about programming, I love challenges 
 
 * 🌍  I'm based in Mexico, CDMX.
 * ✉️  You can contact me at [ozcardev@gmail.com](mailto:ozcardev@gmail.com).
-* 🖥 I currently work at [ScaleAI](https://scale.com/).
+[* 🖥 I currently work at [ScaleAI](https://scale.com/).](url)
 * 🧠  I'm learning backend with Java at Globant University.
 
 ### Skills
