@@ -13,9 +13,9 @@ I joined on the backend and now work across the product.
 
 ### Independent work
 
-Production web apps, websites and automation for businesses in Mexico, from UX/UI design to deployment.
+Production web and mobile apps, websites and automation for businesses in Mexico, from UX/UI design to deployment.
 
-**Stack:** TypeScript · Node.js · React / Next.js · AWS · PostgreSQL / CockroachDB · Docker · Playwright · Figma
+**Stack:** TypeScript · Node.js · React / Next.js · React Native · AWS · PostgreSQL / CockroachDB · Docker · Playwright · Figma
 
 Most of my work lives in private repositories. Happy to walk you through it.
 
